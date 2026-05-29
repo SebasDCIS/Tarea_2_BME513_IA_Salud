@@ -2,3 +2,5 @@ env/
 venv/
 *.dylib
 *.so
+.DS_Store
+~$*
