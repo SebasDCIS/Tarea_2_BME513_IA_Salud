@@ -3,6 +3,10 @@
 > **Predicción de concentración plasmática de biomarcador mediante redes neuronales feedforward**  
 > Verosimilitud probabilística · Regularización · Análisis sesgo-varianza · Salidas mixtas
 
+## Ver el notebook completo
+
+[![nbviewer](https://img.shields.io/badge/Ver%20en-nbviewer-orange)](https://nbviewer.org/github/SebasDCIS/Tarea_2_BME513_IA_Salud/blob/main/tarea_2.ipynb)
+
 ---
 
 ## Resultado principal
@@ -183,4 +187,5 @@ jupyter notebook tarea_2.ipynb
 **BME513 — Inteligencia Artificial en Salud**  
 Profesor: Alejandro Veloz  
 Referencia: *Understanding Deep Learning* — Simon Prince (2024)
+
 
